@@ -1,0 +1,20 @@
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Form1.resources
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Form1.resources
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
