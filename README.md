@@ -8,7 +8,6 @@ Projemiz Türkçeden İngilizceye,İngilizceden Türkçeye kelime çevirisine ya
 
 
 Bu sözlükte yeni kelime ekleyebilir,kelimeleri öğrendiğinizi test edebilir,ne kadar ilerleme kaydettiğinizin istatistiklerini görebilirsiniz.
-
 Programımız farklı kullanıcıları desteklemektedir,yeni kullanıcı kaydı yapma,kullanıcı silme işlemleri yapılabilir.
 
 Uygulamada kullandığımız kelimelerin 4 farklı durumu vardır.
@@ -36,11 +35,9 @@ Kelimelerin durumu sizin isteğinize göre değişebilir.(Örn:Havuzdakiler ----
 Hazırlayanlar:
 
 -Berke Öncül 172803011
-
 -Uğur Çiftçi 172803053
 
 Lisans 
-
 © With Berke Ö. - Uğur Ç.'ye aittir. Tüm hakları saklıdır.
 
 
