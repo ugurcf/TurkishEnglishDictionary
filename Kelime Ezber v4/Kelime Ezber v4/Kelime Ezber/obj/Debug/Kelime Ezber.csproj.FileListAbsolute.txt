@@ -1,0 +1,161 @@
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Form1.resources
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\source\repos\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Form1.resources
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\YazılımYapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\10052019SONHALPROJE\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSozluk.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSozluk.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\proje\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSozluk.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\proje VALLA SON\Yazılım yapımı\Kelime Ezber\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSozluk.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Berke\Desktop\5. Queue - v2\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\bin\Debug\Kelime Ezber.exe.config
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\bin\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\bin\Debug\Kelime Ezber.pdb
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.anaSayfa.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormAyarDegistirme.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeEkleme.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKelimeHavuzu.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormKullaniciAyarlari.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSonuc.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormSozluk.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.FormTest.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.Formİstatistik.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime_Ezber.Properties.Resources.resources
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.exe
+C:\Users\Admin\Desktop\Kelime Ezber mugur\Kelime Ezber mugur\Kelime Ezber\obj\Debug\Kelime Ezber.pdb
